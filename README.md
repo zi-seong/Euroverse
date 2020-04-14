@@ -42,6 +42,27 @@ Ploblem Statement<br>
 
 2.분석단계
 
+UseCase 유형정의<br>
+![UseCase유형정의](https://user-images.githubusercontent.com/57661883/79183402-5791ab00-7e4c-11ea-9a8c-77c7d48d620c.PNG)
+
+
+UseCase 정의서<br>
+![UseCase정의서](https://user-images.githubusercontent.com/57661883/79183409-5d878c00-7e4c-11ea-9f9b-9d6bc98245f5.PNG)
+
+요구사항추적표<br>
+![요구사항추적표](https://user-images.githubusercontent.com/57661883/79183418-62e4d680-7e4c-11ea-9b49-16630bd4dbb7.PNG)
+
+VOPC Diagram<br>
+![VOPC Diagram](https://user-images.githubusercontent.com/57661883/79183433-6a0be480-7e4c-11ea-8eec-4f0054dcc9d0.PNG)
+
+
+ERD<br>
+![ERD](https://user-images.githubusercontent.com/57661883/79183440-7001c580-7e4c-11ea-8f01-d8baf949c691.PNG)
+
+화면정의서<br>
+![찐화면정의서](https://user-images.githubusercontent.com/57661883/79183449-755f1000-7e4c-11ea-9be0-03c6cacd49cf.png)
+
+
 
 
 
