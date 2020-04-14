@@ -60,7 +60,7 @@ ERD<br>
 ![ERD](https://user-images.githubusercontent.com/57661883/79183440-7001c580-7e4c-11ea-8f01-d8baf949c691.PNG)
 
 화면정의서<br>
-![찐화면정의서](https://user-images.githubusercontent.com/57661883/79183449-755f1000-7e4c-11ea-9be0-03c6cacd49cf.png)
+![image](https://user-images.githubusercontent.com/57661883/79183951-dfc48000-7e4d-11ea-8987-0f509facf7dc.png)
 
 
 
