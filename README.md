@@ -30,7 +30,7 @@
 
 Ploblem Statement<br>
 ![ploblem statement](https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG)
-
+<br><br>
 2.분석단계
 
 UseCase 유형정의<br>
@@ -57,7 +57,7 @@ ERD<br>
 
 
 
-
+<br><br>
 3.설계단계
 
 분석단계와 설계단계 VOPC , ERD의 차이점 =
@@ -72,28 +72,26 @@ ERD<br>
 테이블정의서<br>
 ![테이블정의서](https://user-images.githubusercontent.com/57661883/79184158-55305080-7e4e-11ea-8a04-29eaa47068b4.PNG)
 
-
+<br><br>
 
 4.구현단계
 
 
-내정보조회 코드의 일부
+내정보조회 코드의 일부<br>
 ![getUser코드](https://user-images.githubusercontent.com/57661883/79184770-113e4b00-7e50-11ea-835f-8e48e31a504a.PNG)
 
 
-자동로그아웃
+자동로그아웃<br>
 ![자동로그아웃](https://user-images.githubusercontent.com/57661883/79184777-14d1d200-7e50-11ea-87b9-3bf7c110edf4.PNG)
 
 
-포인트sql
+포인트sql<br>
 ![포인트sql](https://user-images.githubusercontent.com/57661883/79184782-18fdef80-7e50-11ea-8cad-5f6a96f542d3.PNG)
 
 
-화면단 코드(찜)
+화면단 코드(찜)<br>
 ![화면쪽](https://user-images.githubusercontent.com/57661883/79184789-1bf8e000-7e50-11ea-95a5-0f1b79bae3a0.PNG)
 
 
-
-5.
 
 
