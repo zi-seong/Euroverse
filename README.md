@@ -16,19 +16,10 @@
 저는 회원관리부분을 담당했습니다.<br>
 기본적으로 구매내역,게시글댓글목록,플래너목록 을 전부 디스플레이 할 수 있으며 출석체크가 됩니다. 가장 신경쓴 부분은 정규식을 사용한 유효성체크와 spring interceptor를 사용한 중복 로그인 자동로그아웃입니다.
 
+===========담당업무를 각 단계마다 분류해두자=========
+
+
 <br><br>
-<ul>
-  <li>회원가입</li>
-  <li>로그인</li>
-  <li>sns로그인</li>
-  <li>아이디찾기</li>
-  <li>비밀번호찾기</li> 
-  <li>마이페이지</li>
-  <li>작성한</li>
-</ul>
-
-
-
 
 프로젝트 진행
 
@@ -84,6 +75,22 @@ ERD<br>
 
 
 4.구현단계
+
+
+내정보조회 코드의 일부
+![getUser코드](https://user-images.githubusercontent.com/57661883/79184770-113e4b00-7e50-11ea-835f-8e48e31a504a.PNG)
+
+
+자동로그아웃
+![자동로그아웃](https://user-images.githubusercontent.com/57661883/79184777-14d1d200-7e50-11ea-87b9-3bf7c110edf4.PNG)
+
+
+포인트sql
+![포인트sql](https://user-images.githubusercontent.com/57661883/79184782-18fdef80-7e50-11ea-8cad-5f6a96f542d3.PNG)
+
+
+화면단 코드(찜)
+![화면쪽](https://user-images.githubusercontent.com/57661883/79184789-1bf8e000-7e50-11ea-95a5-0f1b79bae3a0.PNG)
 
 
 
