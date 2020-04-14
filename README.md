@@ -69,6 +69,18 @@ ERD<br>
 
 3.설계단계
 
+분석단계와 설계단계 VOPC , ERD의 차이점 =
+
+VOPC<br>
+![설계VOPC](https://user-images.githubusercontent.com/57661883/79184144-4e094280-7e4e-11ea-87a8-c00eab661306.PNG)
+
+ERD<br>
+![설계ERD](https://user-images.githubusercontent.com/57661883/79184154-52356000-7e4e-11ea-8007-2df8f193c97f.PNG)
+
+
+테이블정의서<br>
+![테이블정의서](https://user-images.githubusercontent.com/57661883/79184158-55305080-7e4e-11ea-8a04-29eaa47068b4.PNG)
+
 
 
 4.구현단계
