@@ -32,12 +32,27 @@
 
 프로젝트 진행
 
-1.
+1.요구사항 정의단계
 
 현업요구사항정의서<br>
 ![현업요구사항정의서 이미지](https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG)
 
 Ploblem Statement<br>
 ![ploblem statement](https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG)
+
+2.분석단계
+
+
+
+
+3.설계단계
+
+
+
+4.구현단계
+
+
+
+5.
 
 
