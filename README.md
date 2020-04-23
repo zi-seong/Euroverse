@@ -23,7 +23,7 @@
 
 프로젝트 진행
 <ol>
-  <li>요구사항 정의단계<br>
+  <li>요구사항 정의단계</li><br>
 
 현업요구사항정의서<br>
 ![현업요구사항정의서 이미지](https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG)
@@ -31,9 +31,9 @@
 Ploblem Statement<br>
 ![ploblem statement](https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG)
 <br><br>
-</li>
 
-<li>분석단계<br>
+
+<li>분석단계</li><br>
 
 UseCase 유형정의<br>
 ![UseCase유형정의](https://user-images.githubusercontent.com/57661883/79183402-5791ab00-7e4c-11ea-9a8c-77c7d48d620c.PNG)
@@ -55,14 +55,16 @@ ERD<br>
 화면정의서<br>
 ![찐화면정의](https://user-images.githubusercontent.com/57661883/79184002-008cd580-7e4e-11ea-9f7a-7703c67ff386.png)
 
-</li>
+
 
 
 
 <br><br>
 
 
-<li>설계단계<br>
+<li>설계단계
+</li>
+<br>
 
 분석단계와 설계단계 VOPC , ERD의 차이점 =
 
@@ -78,9 +80,9 @@ ERD<br>
 
 <br><br>
 
+<li>구현단계
 </li>
-
-<li>구현단계<br>
+<br>
 
 
 내정보조회 코드의 일부<br>
@@ -99,6 +101,6 @@ ERD<br>
 ![화면쪽](https://user-images.githubusercontent.com/57661883/79184789-1bf8e000-7e50-11ea-95a5-0f1b79bae3a0.PNG)
 
 
-</li>
+
 
 </ol>
