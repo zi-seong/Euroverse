@@ -16,7 +16,6 @@
 
 
 
-
 ## 1.개요 :smiley:
 + 총 개발 기간 : 2개월  
     + 분석 및 설계 : 2020/01/01 ~ 2020/01/23  
@@ -43,10 +42,10 @@
 
       
 ## 4.분석 및 설계 과정 :bar_chart:
-###  :one: 주제선정(현업 요구사항 정의서 , Problem Statement)
+###  :one: 주제선정(현업 요구사항 정의서(1) , Problem Statement(2) )
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="250" height="200"><strong>현업 요구사항 정의서</strong>
-<img src="https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG" width="250" height="200"> Problem Statement
+<img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="250" height="200"><strong>1</strong>
+<img src="https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG" width="250" height="200"><strong>2</strong>
 </p>
 
 ### :two: 분석
