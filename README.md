@@ -4,7 +4,7 @@
 ###### 이미지를 클릭하면 구현영상을 볼 수 있습니다.<br>
 * * *
 # :bookmark: 목차
-<a href:"https://github.com/zi-seong/euroverse/blob/master/README.md#1">1.목차</a>
+[1.목차](https://github.com/zi-seong/euroverse/blob/master/README.md#1)
 
 
 ## 1.
