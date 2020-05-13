@@ -28,6 +28,7 @@
 ## 2.담당 모듈 :dart:
 
 <br>
+
 ## 3.의존성 및 버전 정보 :two_men_holding_hands:
 + Laguage : Java    
 + Back-end : Spring Framework 4.0.1 / MyBatis / Apache Tomcat / Selenium
@@ -38,6 +39,7 @@
 + Open Source : Sweetalert / FullCalendar / SummerNote / Owl carousel / AOS / Swiper / Foreign exchange rates API / 공공데이터포털API / 청기와 LAB / I'mPort API / JavaMail API / 네이버로그인 API / 카카오로그인 API / GoogleMap API
 
 <br>
+
 ## 4.분석 및 설계 과정 :bar_chart:
 1. 주제 선정
 
@@ -72,11 +74,13 @@
         3.3.3 테이블 정의서 작성
 
 <br>
+
 ## 5.추가 학습 :pencil2:
 ### **⚡️ AWS 이용한 배포 [(Euroverse 바로가기)](http://13.125.136.145:8080/)**  
 학원 수료 후 AWS를 이용해 배포를 해보았습니다. 아마존 **EC2**의 **인스턴스**를 2개 생성하여 각각 **웹 서버와 MongoDB**를 설치하였고, 아마존 **RDS**를 이용하여 Oracle 12를 설정했습니다. 각 인스턴스끼리 연동을 한 뒤 **탄력적 IP**를 생성하여 고정 IPv4 주소를 연결했습니다. 현재(2020/04/24) 셀레늄 구동을 완성하지 못해 항공권 검색과 숙소 검색 기능은 작동하지 않습니다.
 
 <br>
+
 ## 6.참고 사항 :interrobang:
 문서:[포토폴리오(유럽여행플랜커뮤니티홈페이지).pdf](https://github.com/zi-seong/euroverse/files/4543568/default.pdf)<
 [발표영상](https://youtu.be/xGH5Dzj8rAY)
