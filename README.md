@@ -27,6 +27,9 @@
 
 ## 2.담당 모듈 :dart:
 
+회원관리<br>
+
+
 <br>
 
 ## 3.의존성 및 버전 정보 :two_men_holding_hands:
@@ -82,5 +85,6 @@
 <br>
 
 ## 6.참고 사항 :interrobang:
-문서:[포토폴리오(유럽여행플랜커뮤니티홈페이지).pdf](https://github.com/zi-seong/euroverse/files/4543568/default.pdf)<
+문서:[포토폴리오(유럽여행플랜커뮤니티홈페이지).pdf](https://github.com/zi-seong/euroverse/files/4543568/default.pdf)
+<br>
 [발표영상](https://youtu.be/xGH5Dzj8rAY)
