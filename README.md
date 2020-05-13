@@ -5,12 +5,12 @@
 * * *
 # :bookmark: 목차
 
-1.[개요](https://github.com/zi-seong/euroverse/blob/master/README.md#1)<br>
-2.[담당 모듈]<br>
-3.[의존성 및 버전 정보]<br>
-4.[분석 및 설계 과정]<br>
-5.[추가 학습]<br>
-6.[참고 사항]<br>
+1.[개요](https://github.com/zi-seong/euroverse/blob/master/README.md#1.개요)<br>
+2.[담당 모듈](https://github.com/zi-seong/euroverse/blob/master/README.md#2.담당 모듈)<br>
+3.[의존성 및 버전 정보](https://github.com/zi-seong/euroverse/blob/master/README.md#3.의존성 및 버전 정보)<br>
+4.[분석 및 설계 과정](https://github.com/zi-seong/euroverse/blob/master/README.md#4.분석 및 설계 과정)<br>
+5.[추가 학습](https://github.com/zi-seong/euroverse/blob/master/README.md#5.추가 학습)<br>
+6.[참고 사항](https://github.com/zi-seong/euroverse/blob/master/README.md#6.참고 사항)<br>
 
 
 
