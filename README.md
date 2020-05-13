@@ -5,7 +5,7 @@
 * * *
 # :bookmark: 목차
 <ol>
-<li>[개요]</li>(https://github.com/zi-seong/euroverse/blob/master/README.md#1)
+[<li>개요</li>](https://github.com/zi-seong/euroverse/blob/master/README.md#1)
 <li>[담당 모듈]</li>
 <li>[의존성 및 버전 정보]</li>
 <li>[분석 및 설계 과정]</li>
