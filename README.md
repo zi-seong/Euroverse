@@ -42,14 +42,22 @@
 
       
 ## 4.분석 및 설계 과정 :bar_chart:
-###  :one: 주제선정(현업 요구사항 정의서(1) , Problem Statement(2) )
+###  :one: 주제선정(현업 요구사항 정의서,Problem Statement)
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="250" height="200"><strong>1</strong>
-<img src="https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG" width="250" height="200"><strong>2</strong>
+<img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG" width="250" height="200">
 </p>
 
 ### :two: 분석
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/79183402-5791ab00-7e4c-11ea-9a8c-77c7d48d620c.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79183409-5d878c00-7e4c-11ea-9f9b-9d6bc98245f5.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79183418-62e4d680-7e4c-11ea-9b49-16630bd4dbb7.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79183433-6a0be480-7e4c-11ea-8eec-4f0054dcc9d0.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79183440-7001c580-7e4c-11ea-8f01-d8baf949c691.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79184002-008cd580-7e4e-11ea-9f7a-7703c67ff386.png" width="250" height="200">
+</p>
+(좌측부터 UseCase유형정의 , UseCase정의서 , 요구사항추적표 , VOPC Diagram , ERD , 화면정의서)
 
 ### :three: 설계
 
