@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG" width="250" height="200">
 </p>
 
-### :two: 분석
+### :two: 분석(UseCase유형정의 , UseCase정의서 , 요구사항추적표 , VOPC , ERD , 화면정의서)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/79183402-5791ab00-7e4c-11ea-9a8c-77c7d48d620c.PNG" width="250" height="200">
 <img src="https://user-images.githubusercontent.com/57661883/79183409-5d878c00-7e4c-11ea-9f9b-9d6bc98245f5.PNG" width="250" height="200">
@@ -57,10 +57,14 @@
 <img src="https://user-images.githubusercontent.com/57661883/79183440-7001c580-7e4c-11ea-8f01-d8baf949c691.PNG" width="250" height="200">
 <img src="https://user-images.githubusercontent.com/57661883/79184002-008cd580-7e4e-11ea-9f7a-7703c67ff386.png" width="250" height="200">
 </p>
-(좌측부터 UseCase유형정의 , UseCase정의서 , 요구사항추적표 , VOPC Diagram , ERD , 화면정의서)
 
-### :three: 설계
 
+### :three: 설계(VOPC , ERD , 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/79184144-4e094280-7e4e-11ea-87a8-c00eab661306.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79184154-52356000-7e4e-11ea-8007-2df8f193c97f.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79184158-55305080-7e4e-11ea-8a04-29eaa47068b4.PNG" width="250" height="200">
+</p>
 
 ### :four: 구현 
 
