@@ -28,19 +28,51 @@
 ## 2.담당 모듈 :dart:
 
 ## 3.의존성 및 버전 정보 :two_men_holding_hands:
++ Laguage : Java    
++ Back-end : Spring Framework 4.0.1 / MyBatis / Apache Tomcat / Selenium
++ Front : HTML5 / BootStrap 4 / CSS3 / jQuery / Ajax / JSP
++ Database : Oracle 10g / MongoDB 3.6.1  
++ VCS tool : GitHub  
++ IDE : Eclipse  
++ Open Source : Sweetalert / FullCalendar / SummerNote / Owl carousel / AOS / Swiper / Foreign exchange rates API / 공공데이터포털API / 청기와 LAB / I'mPort API / JavaMail API / 네이버로그인 API / 카카오로그인 API / GoogleMap API
 
 ## 4.분석 및 설계 과정 :bar_chart:
+1. 주제 선정
+
+    2.1. 업무 분석 : Use Case Modeling
+        2.1.1 현업 요구사항 정의서 작성  
+        2.1.2 요구사항 추적표 작성
+        2.1.3 Use Case 유형정의 작성    
+        2.1.4 Use Case Diagram 작성    
+        2.1.5 Use Case 정의서 작성
+    
+    2.2. 업무 분석 : Application Modeling
+        2.2.1 Class Diagram 작성    
+        2.2.2 VOPC(View Of Participating Class) Diagram 작성
+
+    2.3. 화면 분석
+        2.3.1 화면 정의서 작성
+
+    2.4. 데이터 분석(Logical)
+        2.4.1 ERD(Logical) 작성
+        
+    3.1 업무 분석 : Application Modeling 
+        3.1.1 설계표준 정의
+        3.1.2 Class Diagram 작성
+        3.1.3 VOPC(View Of Participating Class) Diagram 작성
+
+    3.2 화면 분석
+        3.2.1 화면 정의서 
+
+    3.3 데이터 분석(Physical)
+        3.3.1 ERD(Physical) 작성
+        3.3.2 테이블 목록 작성
+        3.3.3 테이블 정의서 작성
 
 ## 5.추가 학습 :pencil2:
+### **⚡️ AWS 이용한 배포 [(Euroverse 바로가기)](http://13.125.136.145:8080/)**  
+학원 수료 후 AWS를 이용해 배포를 해보았습니다. 아마존 **EC2**의 **인스턴스**를 2개 생성하여 각각 **웹 서버와 MongoDB**를 설치하였고, 아마존 **RDS**를 이용하여 Oracle 12를 설정했습니다. 각 인스턴스끼리 연동을 한 뒤 **탄력적 IP**를 생성하여 고정 IPv4 주소를 연결했습니다. 현재(2020/04/24) 셀레늄 구동을 완성하지 못해 항공권 검색과 숙소 검색 기능은 작동하지 않습니다.
 
 ## 6.참고 사항 :interrobang:
-
-
-
-<br><br>
-
-
-
-
 문서:[포토폴리오(유럽여행플랜커뮤니티홈페이지).pdf](https://github.com/zi-seong/euroverse/files/4543568/default.pdf)
-
+[발표영상](https://youtu.be/xGH5Dzj8rAY)
