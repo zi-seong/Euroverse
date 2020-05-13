@@ -44,38 +44,8 @@
 <br>
 
 ## 4.분석 및 설계 과정 :bar_chart:
-1. 주제 선정
-    <img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="200">
-    2.1. 업무 분석 : Use Case Modeling
-        2.1.1 현업 요구사항 정의서 작성  
-        2.1.2 요구사항 추적표 작성
-        2.1.3 Use Case 유형정의 작성    
-        2.1.4 Use Case Diagram 작성    
-        2.1.5 Use Case 정의서 작성
-    
-    2.2. 업무 분석 : Application Modeling
-        2.2.1 Class Diagram 작성    
-        2.2.2 VOPC(View Of Participating Class) Diagram 작성
-
-    2.3. 화면 분석
-        2.3.1 화면 정의서 작성
-
-    2.4. 데이터 분석(Logical)
-        2.4.1 ERD(Logical) 작성
-        
-    3.1 업무 분석 : Application Modeling 
-        3.1.1 설계표준 정의
-        3.1.2 Class Diagram 작성
-        3.1.3 VOPC(View Of Participating Class) Diagram 작성
-
-    3.2 화면 분석
-        3.2.1 화면 정의서 
-
-    3.3 데이터 분석(Physical)
-        3.3.1 ERD(Physical) 작성
-        3.3.2 테이블 목록 작성
-        3.3.3 테이블 정의서 작성
-
+<img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="200" height="200">
+ 
 <br>
 
 ## 5.추가 학습 :pencil2:
