@@ -87,4 +87,4 @@
 ## 6.참고 사항 :interrobang:
 문서:[포토폴리오(유럽여행플랜커뮤니티홈페이지).pdf](https://github.com/zi-seong/euroverse/files/4543568/default.pdf)
 <br>
-[발표영상](https://youtu.be/xGH5Dzj8rAY)
+영상:[유튜브 발표영상](https://youtu.be/xGH5Dzj8rAY)
