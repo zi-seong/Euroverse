@@ -4,12 +4,15 @@
 ###### 이미지를 클릭하면 구현영상을 볼 수 있습니다.<br>
 * * *
 # :bookmark: 목차
-[1.개요](https://github.com/zi-seong/euroverse/blob/master/README.md#1)
-[2.담당 모듈]
-[3.의존성 및 버전 정보]
-[4.분석 및 설계 과정]
-[5.추가 학습]
-[6.참고 사항]
+<ol>
+<li>[개요](https://github.com/zi-seong/euroverse/blob/master/README.md#1)</li>
+<li>[담당 모듈]</li>
+<li>[의존성 및 버전 정보]</li>
+<li>[분석 및 설계 과정]</li>
+<li>[추가 학습]</li>
+  <li>[참고 사항]</li> 
+</ol>
+
 
 
 
