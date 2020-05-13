@@ -45,7 +45,7 @@
 
 ## 4.분석 및 설계 과정 :bar_chart:
 1. 주제 선정
-
+    <img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="200">
     2.1. 업무 분석 : Use Case Modeling
         2.1.1 현업 요구사항 정의서 작성  
         2.1.2 요구사항 추적표 작성
