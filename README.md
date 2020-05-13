@@ -3,8 +3,15 @@
 [![euroverseMAIN](https://user-images.githubusercontent.com/57661883/77535422-ee1e1c80-6edd-11ea-8aad-bfdfd6ceaf36.png)](https://youtu.be/2Q8ZXSbwx8Q)
 ###### 이미지를 클릭하면 구현영상을 볼 수 있습니다.<br>
 * * *
-<h1> :bookmark: 목차 </h1>
-[1.목차](https://github.com/zi-seong/euroverse/blob/master/README.md#1)
+# :bookmark: 목차
+[1.개요](https://github.com/zi-seong/euroverse/blob/master/README.md#1)
+[2.담당 모듈]
+[3.의존성 및 버전 정보]
+[4.분석 및 설계 과정]
+[5.추가 학습]
+[6.참고 사항]
+
+
 
 
 ## 1.
