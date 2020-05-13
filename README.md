@@ -74,5 +74,5 @@
 학원 수료 후 AWS를 이용해 배포를 해보았습니다. 아마존 **EC2**의 **인스턴스**를 2개 생성하여 각각 **웹 서버와 MongoDB**를 설치하였고, 아마존 **RDS**를 이용하여 Oracle 12를 설정했습니다. 각 인스턴스끼리 연동을 한 뒤 **탄력적 IP**를 생성하여 고정 IPv4 주소를 연결했습니다. 현재(2020/04/24) 셀레늄 구동을 완성하지 못해 항공권 검색과 숙소 검색 기능은 작동하지 않습니다.
 
 ## 6.참고 사항 :interrobang:
-문서:[포토폴리오(유럽여행플랜커뮤니티홈페이지).pdf](https://github.com/zi-seong/euroverse/files/4543568/default.pdf)
+문서:[포토폴리오(유럽여행플랜커뮤니티홈페이지).pdf](https://github.com/zi-seong/euroverse/files/4543568/default.pdf)<
 [발표영상](https://youtu.be/xGH5Dzj8rAY)
