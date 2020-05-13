@@ -45,6 +45,7 @@
 
 ## 4.분석 및 설계 과정 :bar_chart:
 <img src="https://user-images.githubusercontent.com/57661883/79181404-3da19980-7e47-11ea-9589-d28be24ae36f.PNG" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/79181678-e7812600-7e47-11ea-9c82-04c73627bbae.PNG" width="200" height="200"> 
  
 <br>
 
