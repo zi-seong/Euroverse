@@ -1,7 +1,7 @@
 # :trolleybus: 유로버스 :trolleybus:
 
 [![euroverseMAIN](https://user-images.githubusercontent.com/57661883/77535422-ee1e1c80-6edd-11ea-8aad-bfdfd6ceaf36.png)](http://15.165.109.175:8080/main.jsp)
-###### 이미지를 클릭하면 홈페이지로 .      
+###### 이미지를 클릭하면 홈페이지로 이동합니다.      
 * * *
 # :bookmark: 목차
 
