@@ -33,7 +33,7 @@
 ### :two: 아이디찾기 비밀번호찾기
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902127-93aa5e00-95fa-11ea-9d4b-7b790a0a1558.PNG" width="250" height="200">
-<img src="https://user-images.githubusercontent.com/57661883/81902127-93aa5e00-95fa-11ea-9d4b-7b790a0a1558.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/81907969-83e34780-9603-11ea-828b-cced5d8e049e.PNG" width="250" height="200">
 </p>
 
 ### :three: 회원가입
