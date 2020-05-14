@@ -95,7 +95,12 @@
 <img src="https://user-images.githubusercontent.com/57661883/79184158-55305080-7e4e-11ea-8a04-29eaa47068b4.PNG" width="250" height="200">
 </p>
 
-### :four: 구현 
+### :four: 구현(풀캘린더 이용한 출석체크 , 플래너 초대 동의 코드 , 포인트 리스트 sql(mybatis))
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81911962-ebe85c80-9608-11ea-99ea-302567da09c8.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/81911968-ee4ab680-9608-11ea-9549-4dcb615f8cb6.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/81911972-ee4ab680-9608-11ea-93fc-e62da92bd8a3.PNG" width="250" height="200">
+</p>
 
 
       
