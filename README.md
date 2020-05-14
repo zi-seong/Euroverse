@@ -25,8 +25,36 @@
 <br>
 
 ## 2.담당 모듈 :dart:
+### :one: 로그인
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81902074-84c3ab80-95fa-11ea-8817-312297b0b539.PNG" width="250" height="200">
+</p>
 
-회원관리     
+### :two: 아이디찾기 비밀번호찾기
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81902127-93aa5e00-95fa-11ea-9d4b-7b790a0a1558.PNG" width="250" height="200">
+</p>
+
+### :three: 회원가입
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81902150-9e64f300-95fa-11ea-93b8-b8c35cc49182.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/81902155-9f962000-95fa-11ea-9141-bbc0abbbd48a.PNG" width="250" height="200">
+</p>
+
+### :four: 마이페이지
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81902179-a91f8800-95fa-11ea-9494-ab7f611e8e98.PNG" width="250" height="200">
+</p>
+
+### :five: 게시판(포인트목록 , 게시글 이런거)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81902885-d7519780-95fb-11ea-85c5-ee4193ba2e1b.PNG" width="250" height="200">
+</p>
+
+### :six: 중복 로그인 방지
+<p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81902896-da4c8800-95fb-11ea-89f0-780748ba4e0b.PNG" width="250" height="200">
+</p>
 
 
        
