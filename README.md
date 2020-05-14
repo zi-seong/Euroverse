@@ -26,14 +26,14 @@
 
 ## 2.담당 모듈 :dart:
 ### :one: 로그인
-+ <p>bootstrap 의 modal 을 사용하여 메인 페이지에서 로그인텍스트를 클릭하면 출력됩니다.ajax 를 사용하여 일치하는 회원이 없는경우 , 회원탈퇴한 회원이 로그인을 누르면 sweetalert 이 출력됩니다.아이디찾기와 비밀번호찾기 페이지로 이동할 수 있으며 naver,kakao,google sns계정으로 로그인하거나 되있으면 간단한 회원가입페이지로 이동할 수 있습니다.</p> 
+<p>bootstrap 의 modal 을 사용하여 메인 페이지에서 로그인텍스트를 클릭하면 출력됩니다.ajax 를 사용하여 일치하는 회원이 없는경우 , 회원탈퇴한 회원이 로그인을 누르면 sweetalert 이 출력됩니다.아이디찾기와 비밀번호찾기 페이지로 이동할 수 있으며 naver,kakao,google sns계정으로 로그인하거나 되있으면 간단한 회원가입페이지로 이동할 수 있습니다.</p> 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81904667-898a5e80-95fe-11ea-917e-60d1421eb3e9.PNG" width="250" height="200">
 </p>
 
 
 ### :two: 아이디찾기 비밀번호찾기
-+ <p>첫 단계에서는 이름, 핸드폰, 아이디(비밀번호 찾기)를 입력하고 찾기를 하면 일치하는 회원의 아이디(아이디 찾기) 3글자만 보여주고 뒤에는 *로 표시한다 ( ex=jis*****) 그리고 인증을 누르면 입력한 핸드폰 번호 또는 이메일로 청기와 랩, 자바 메일 api를 사용하여 인증번호를 발송하고 일치하는 인증번호를 입력하면 아이디 찾기는 *이 사라진 아이디를 확인할 수 있고 비밀번호 찾기는 비밀번호 변경을 하게 된다.</p>
+<p>첫 단계에서는 이름, 핸드폰, 아이디(비밀번호 찾기)를 입력하고 찾기를 하면 일치하는 회원의 아이디(아이디 찾기) 3글자만 보여주고 뒤에는 *로 표시한다 ( ex=jis*****) 그리고 인증을 누르면 입력한 핸드폰 번호 또는 이메일로 청기와 랩, 자바 메일 api를 사용하여 인증번호를 발송하고 일치하는 인증번호를 입력하면 아이디 찾기는 *이 사라진 아이디를 확인할 수 있고 비밀번호 찾기는 비밀번호 변경을 하게 된다.</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902127-93aa5e00-95fa-11ea-9d4b-7b790a0a1558.PNG" width="250" height="200"> 
@@ -41,7 +41,7 @@
 </p>
 
 ### :three: 회원가입
-+ <p> </p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902150-9e64f300-95fa-11ea-93b8-b8c35cc49182.PNG" width="250" height="200">
 <img src="https://user-images.githubusercontent.com/57661883/81902155-9f962000-95fa-11ea-9141-bbc0abbbd48a.PNG" width="250" height="200">
