@@ -27,11 +27,12 @@
 ## 2.담당 모듈 :dart:
 ### :one: 로그인
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57661883/81902074-84c3ab80-95fa-11ea-8817-312297b0b539.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/81904667-898a5e80-95fe-11ea-917e-60d1421eb3e9.PNG" width="250" height="200">
 </p>
 
 ### :two: 아이디찾기 비밀번호찾기
 <p align="center">
+<img src="https://user-images.githubusercontent.com/57661883/81902127-93aa5e00-95fa-11ea-9d4b-7b790a0a1558.PNG" width="250" height="200">
 <img src="https://user-images.githubusercontent.com/57661883/81902127-93aa5e00-95fa-11ea-9d4b-7b790a0a1558.PNG" width="250" height="200">
 </p>
 
