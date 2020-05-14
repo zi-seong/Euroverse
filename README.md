@@ -33,12 +33,15 @@
 
 
 ### :two: 아이디찾기 비밀번호찾기
++ <p>첫 단계에서는 이름, 핸드폰, 아이디(비밀번호 찾기)를 입력하고 찾기를 하면 일치하는 회원의 아이디(아이디 찾기) 3글자만 보여주고 뒤에는 *로 표시한다 ( ex=jis*****) 그리고 인증을 누르면 입력한 핸드폰 번호 또는 이메일로 청기와 랩, 자바 메일 api를 사용하여 인증번호를 발송하고 일치하는 인증번호를 입력하면 아이디 찾기는 *이 사라진 아이디를 확인할 수 있고 비밀번호 찾기는 비밀번호 변경을 하게 된다.</p>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902127-93aa5e00-95fa-11ea-9d4b-7b790a0a1558.PNG" width="250" height="200"> 
 <img src="https://user-images.githubusercontent.com/57661883/81907969-83e34780-9603-11ea-828b-cced5d8e049e.PNG" width="250" height="200"> 
 </p>
 
 ### :three: 회원가입
++ <p> </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902150-9e64f300-95fa-11ea-93b8-b8c35cc49182.PNG" width="250" height="200">
 <img src="https://user-images.githubusercontent.com/57661883/81902155-9f962000-95fa-11ea-9141-bbc0abbbd48a.PNG" width="250" height="200">
