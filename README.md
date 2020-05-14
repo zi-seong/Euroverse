@@ -52,7 +52,7 @@
 <img src="https://user-images.githubusercontent.com/57661883/81902179-a91f8800-95fa-11ea-9494-ab7f611e8e98.PNG" width="250" height="200">
 </p>
 
-### :five: 게시판(포인트목록 , 게시글 이런거)
+### :five: 게시판(포인트 사용 내역,나의 게시글/댓글,나의 북마크,플래너 초대,내가 찜한 상품,1:1문의)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902885-d7519780-95fb-11ea-85c5-ee4193ba2e1b.PNG" width="250" height="200">
 </p>
