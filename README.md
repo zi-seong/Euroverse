@@ -29,6 +29,10 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81904667-898a5e80-95fe-11ea-917e-60d1421eb3e9.PNG" width="250" height="200">
 </p>
+**bootstrap**의 **modal**을 사용하여 메인 페이지에서 로그인텍스트를 클릭하면 출력됩니다.      
+**ajax**를 사용하여 일치하는 회원이 없는경우 , 회원탈퇴한 회원이 로그인을 누르면 **sweetalert**이 출력됩니다.     
+아이디찾기와 비밀번호찾기 페이지로 이동할 수 있으며 naver,kakao,google sns계정으로       
+로그인하거나 되있으면 간단한 회원가입페이지로 이동할 수 있습니다.      
 
 ### :two: 아이디찾기 비밀번호찾기
 <p align="center">
