@@ -58,12 +58,18 @@
 </p>
 
 ### :five: 게시판(포인트 사용 내역,나의 게시글/댓글,나의 북마크,플래너 초대,내가 찜한 상품,1:1문의)
+<p>
+    모든 게시판은 PageNavigation모듈을 만들어서 페이징하고 있으며 포인트 사용내역에서는 포인트의 상태를 표시하고 총 포인트를 확인할 수 있으며 작성한 게시글 댓글을 볼 수 있고 나의 북마크에서는 비동기처리로 바로 북마크를 해제할 수 있습니다. 내가 찜한 상품에서 바로 구매페이지로 넘어 갈 수 있으며 1:1문의에 답글이 달리면 바로 확인할 수 있습니다.
+</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902885-d7519780-95fb-11ea-85c5-ee4193ba2e1b.PNG" width="250" height="200">
 <img src="https://user-images.githubusercontent.com/57661883/82237722-14f24f80-9971-11ea-9d1b-e9c0bbf45495.PNG" width="250" height="200">    
 </p>
 
 ### :six: 중복 로그인 방지
+<p>
+    spring intercepter를 사용하여 preHandle에서 로그인한 회원의 아이피를 아이디와 함께 디비에 저장하고 다른 아이피로 동일한 아이디로 접근할 경우 기존에 있던 회원이 컨트롤을 타는 작업을 하는 순간 바로 자동으로 로그아웃하게 했습니다.
+</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902896-da4c8800-95fb-11ea-89f0-780748ba4e0b.PNG" width="250" height="200">
 </p>
