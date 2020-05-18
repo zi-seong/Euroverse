@@ -60,6 +60,7 @@
 ### :five: 게시판(포인트 사용 내역,나의 게시글/댓글,나의 북마크,플래너 초대,내가 찜한 상품,1:1문의)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57661883/81902885-d7519780-95fb-11ea-85c5-ee4193ba2e1b.PNG" width="250" height="200">
+<img src="https://user-images.githubusercontent.com/57661883/82237722-14f24f80-9971-11ea-9d1b-e9c0bbf45495.PNG" width="250" height="200">    
 </p>
 
 ### :six: 중복 로그인 방지
